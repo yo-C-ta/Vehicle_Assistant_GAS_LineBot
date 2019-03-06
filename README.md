@@ -2,7 +2,7 @@
 
 ## Keyward
 
-Any wards to start conversation and choose from options.
+Any word to start conversation and choose from options.
 
 ## Toyota client
 
